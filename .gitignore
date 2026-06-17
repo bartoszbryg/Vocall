@@ -1,5 +1,4 @@
 .env
-recordings/
 *.wav
 *.mp3
 __pycache__/

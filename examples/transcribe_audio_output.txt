@@ -1,0 +1,9 @@
+$ python transcribe_audio.py recording_7.wav
+
+Loading model: base
+Transcribing: recording_7.wav
+
+Saved: recording_7_transcript.txt
+
+--- Preview ---
+Hi there, this is Maya calling from Pipeline Medical. I'm reaching out regarding your recent order — I just wanted to confirm the delivery details and make sure everything's on track for you. Is now a good time to talk?

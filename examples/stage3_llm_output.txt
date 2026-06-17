@@ -1,0 +1,11 @@
+$ python scripts/3_llm.py
+
+Type a message. Ctrl+C to quit.
+
+You: What's the delivery address on the order?
+Assistant: I don't have that detail on hand — I'd recommend checking with the account team directly and they can pull it up for you right away.
+
+You: Can you reschedule the delivery?
+Assistant: I'm not able to make changes to orders directly, but I can flag that for the account team and have someone call you back. Would that work?
+
+You: exit

@@ -1,0 +1,30 @@
+$ python scripts/pipeline_runner.py
+
+Voice pipeline running. Speak into your mic. Ctrl+C to stop.
+
+Speech started
+Speech ended — processing...
+  Saved: recordings/utterance_20260601_143022.wav  (2.84s)
+
+-- recordings/utterance_20260601_143022.wav --
+  [STT] Transcribing... 0.21s
+  [STT] "Is now a good time to talk?"  (98%)
+  [LLM→TTS]
+  [LLM] Actually, yes — could you give me just one moment?
+
+  Total: 0.87s
+
+Speech started
+Speech ended — processing...
+  Saved: recordings/utterance_20260601_143025.wav  (3.11s)
+
+-- recordings/utterance_20260601_143025.wav --
+  [STT] Transcribing... 0.19s
+  [STT] "I'm calling about an order delivery on Thursday."  (97%)
+  [LLM→TTS]
+  [LLM] Got it — I can help with that. Do you have the order number handy, or would you like me to look it up by account name?
+
+  Total: 0.94s
+
+^C
+Stopped.

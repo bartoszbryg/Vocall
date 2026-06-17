@@ -1,0 +1,5 @@
+$ python scripts/2_transcribe.py recordings/utterance_20260601_143022.wav
+
+Transcript : Is now a good time to talk?
+Confidence : 98%
+Words      : 8

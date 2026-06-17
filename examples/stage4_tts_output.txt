@@ -1,0 +1,8 @@
+$ python scripts/4_tts.py
+
+Speaking: Hello! This is a test of the ElevenLabs text to speech system.
+Done.
+
+# Audio plays through speakers — no file saved in standalone test mode.
+# In the full pipeline, audio streams directly to the output device
+# as chunks arrive from ElevenLabs (~100-150ms to first sound).
