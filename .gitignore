@@ -1,6 +1,13 @@
 .env
-*.wav
-*.mp3
+.venv/
 __pycache__/
-*.pyc
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.ruff_cache/
+models/*.pt
+models/*.ckpt
+*.log
 .DS_Store
